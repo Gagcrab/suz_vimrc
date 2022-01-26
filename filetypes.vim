@@ -5,7 +5,7 @@
 "
 " This (forked) version:
 "       Michael Suzzi
-"       https://github.com/Gagcrab/vimrc
+"       https://github.com/Gagcrab/suz_vimrc
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
